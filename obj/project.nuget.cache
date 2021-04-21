@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwQLDcSlmQrNIWrB9yNWZS2U/Rm8P66ieO0GI7Z6/11pBKcwnPMgS8cV3cFRNyZJ2PuZHbIfHfy9iTAuW4Kleg==",
+  "success": true,
+  "projectFilePath": "/home/david/src/todo/todo.csproj",
+  "expectedPackageFiles": [
+    "/home/david/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
